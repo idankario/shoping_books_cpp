@@ -31,6 +31,8 @@ The purpose of this work is to develop a system for coordinating the sales, orde
   * info
   * img
   * author
+ C:\Users\gal\Desktop\BEBS\BEBS_SHOP
+ exe file
  exex file
  C:\Users\gal\Desktop\BEBS\BEBS_SHOP
 * orders_from_provider - saves all information related to the orders of the service:
